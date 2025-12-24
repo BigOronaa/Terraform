@@ -131,6 +131,9 @@ Actions taken:
 
 ### I added screenshots
 ![alt text](images/deployterraform.png)
+![alt text](images/ec2created.png)
+![alt text](images/packerwebtest.png)
+
 
 **Error encountered:**
 - Terraform failed due to a reference to an undeclared `aws_vpc.default` resource. I fixed by removing the undeclared VPC reference and relied on the default VPC. After fixing the configuration, the Terraform deployment succeeded.
