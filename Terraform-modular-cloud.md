@@ -1,4 +1,4 @@
-# Project 6 Implementation Documentation — Modular Cloud
+# Implementation Documentation — Modular Cloud
 
 ## Introduction
 This document details the **step-by-step implementation of Project 6 (Modular Cloud)**, showing how I orchestrated infrastructure from previous projects (3, 4, and 5) using Terraform modular infrastructure.

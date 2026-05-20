@@ -1,6 +1,5 @@
-# Implementation Documentation
+# Multi-Tier Web Application Deployment using Terraform
 
-# Multi-Tier Web Application Deployment Project
 
 ## Introduction
 This document provides a step-by-step record of the implementation of a multi-tier web application using Terraform and Ansible. The instructions are written in the first person, describing what I did throughout the project.

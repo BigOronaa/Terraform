@@ -1,4 +1,4 @@
-#  Serverless Application with CI/CD Pipeline Project
+#  Building a Serverless Application with CI/CD Pipeline 
 
 ## Project Overview
 This project involves creating a serverless application on AWS using Terraform for infrastructure provisioning and GitHub Actions for CI/CD. The stack includes:

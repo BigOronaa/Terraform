@@ -1,7 +1,7 @@
-# Multi-Cloud Kubernetes Deployment Project Documentation
+# Building a Multi-Cloud Kubernetes Deployment using Terraform
 
 ## Project Overview
-I implemented a multi-cloud Kubernetes setup using Terraform modules to deploy clusters on AWS (EKS) and GCP (GKE). I also deployed a sample NGINX application to validate the setup. Azure (AKS) was planned but not implemented due to account limitations.
+This Projecr, I implemented a multi-cloud Kubernetes setup using Terraform modules to deploy clusters on AWS (EKS) and GCP (GKE). I also deployed a sample NGINX application to validate the setup. Azure (AKS) was planned but not implemented due to account limitations.
 
 The goals were:
 - Use reusable Terraform modules for each cloud provider.

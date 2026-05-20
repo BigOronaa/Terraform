@@ -1,7 +1,7 @@
 # Terraform Static Website Implementation
 
 ### Project Overview
-Deploy a static website using Terraform and AWS S3.Use Terraform to provision S3 bucket, host HTML content, and optionally add CloudFront CDN
+This Project, Deploys a static website using Terraform and AWS S3.Use Terraform to provision S3 bucket, host HTML content, and optionally add CloudFront CDN
 
 ### Prerequisites
 
