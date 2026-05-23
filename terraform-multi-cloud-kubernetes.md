@@ -94,9 +94,7 @@ module "aws_eks" {
   source       = "../../modules/aws-eks"
   cluster_name = "dev-eks-cluster"
   region       = var.aws_region
-  subnet_ids   = [
-    "subnet-00d269bfe2a5c17f7",
-    "subnet-0ebd983bc68309e5b"
+  subnet_ids   = [ var.subnet_ids
   ]
 }
 ```
